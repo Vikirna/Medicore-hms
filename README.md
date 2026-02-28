@@ -1,4 +1,4 @@
-# 🏥 MediCore HMS — Hospital Management System
+# MediCore HMS — Hospital Management System
 
 A full-stack-style hospital management web application built with **React + Vite** as a Computer Science project. Features a landing page, secure login, and a complete admin dashboard for managing hospital operations.
 
@@ -7,15 +7,7 @@ A full-stack-style hospital management web application built with **React + Vite
 
 ---
 
-## 📸 Screenshots
-
-| Landing Page | Dashboard | Appointments |
-|---|---|---|
-| *(add screenshots after deploying)* | *(add screenshots after deploying)* | *(add screenshots after deploying)* |
-
----
-
-## ✨ Features
+## Features
 
 - **Landing Page** — Animated hero section with hospital overview and feature highlights
 - **Authentication** — Login system with credential validation
@@ -28,7 +20,7 @@ A full-stack-style hospital management web application built with **React + Vite
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) v18 or higher
@@ -60,7 +52,7 @@ Password: admin123
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 medicore-hms/
@@ -75,7 +67,7 @@ medicore-hms/
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 | Tool | Purpose |
 |---|---|
@@ -86,7 +78,7 @@ medicore-hms/
 
 ---
 
-## 📦 Build for Production
+## Build for Production
 
 ```bash
 npm run build
@@ -95,17 +87,8 @@ Output goes to the `dist/` folder. Deploy to [Vercel](https://vercel.com), [Netl
 
 ---
 
-## 🌐 Deploy to Vercel (Recommended — Free)
 
-1. Push this repo to GitHub
-2. Go to [vercel.com](https://vercel.com) → **New Project**
-3. Import your GitHub repo
-4. Framework preset: **Vite** (auto-detected)
-5. Click **Deploy** — you'll get a live URL in ~1 minute
-
----
-
-## 📚 Original Project
+## Original Project
 
 This application was originally built as a **Python + MySQL console application** for a Computer Science class project. It was then redesigned and rebuilt as a full web application using React to demonstrate modern frontend development skills.
 
@@ -116,10 +99,10 @@ The original Python project handled:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**[Your Name]**  
-Class XII — Computer Science Project  
+**Vikirna Majumdar**  
+2nd Year — Computer Science Project  
 [Your School Name]  
 
 ---
