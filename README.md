@@ -2,7 +2,7 @@
 
 A full-stack-style hospital management web application built with **React + Vite** as a Computer Science project. Features a landing page, secure login, and a complete admin dashboard for managing hospital operations.
 
-> **Live Demo:** [Add your deployed link here]  
+> **Live Demo:** https://medicore-hms-kappa.vercel.app/  
 > **Tech Stack:** React 18, Vite, CSS (no external UI libraries)
 
 ---
