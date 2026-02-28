@@ -83,7 +83,7 @@ medicore-hms/
 ```bash
 npm run build
 ```
-Output goes to the `dist/` folder. Deploy to [Vercel](https://vercel.com), [Netlify](https://netlify.com), or [GitHub Pages](https://pages.github.com).
+Output goes to the `dist/` folder. Recommended: Deploy free on [Vercel](https://vercel.com) — just connect your GitHub repo and it auto-deploys.
 
 ---
 
