@@ -103,7 +103,7 @@ The original Python project handled:
 
 **Vikirna Majumdar**  
 2nd Year — Computer Science Project  
-[Your School Name]  
+SRM INSTITUTE OS SCIENCE AND TECHNOLOGY 
 
 ---
 
